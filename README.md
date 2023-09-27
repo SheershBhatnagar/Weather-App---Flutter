@@ -37,6 +37,7 @@ If you don't have an API Key then [CREATE HERE](https://home.openweathermap.org/
 ## Screenshots
 
 ![Loading](https://github.com/SheershBhatnagar/Weather-App---Flutter/blob/master/screenshots/loading.png)
+
 ![Home Screen](https://github.com/SheershBhatnagar/Weather-App---Flutter/blob/master/screenshots/home_screen_1.png)
 ![Home Screen 2](https://github.com/SheershBhatnagar/Weather-App---Flutter/blob/master/screenshots/home_screen_2.png)
 
